@@ -1,5 +1,6 @@
 # AIFFEL_Project
-2020 AIFFEL Project   
+2020 AIFFEL Project  
+AIFFEL에서 진행하는 EXPLORATION Stage Project 입니다.  
 <br>
 <br>
 ### Contents
@@ -17,3 +18,4 @@
 - [E11. 작사가 인공지능 만들기](https://github.com/JaeHeee/AIFFEL_Project/blob/master/EXPLORATION/EXPLORATION%2011.%20%EC%9E%91%EC%82%AC%EA%B0%80%20%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%20%EB%A7%8C%EB%93%A4%EA%B8%B0.ipynb)
 - [E12. 나랑 닮은 연예인은 누구?](https://github.com/JaeHeee/AIFFEL_Project/blob/master/EXPLORATION/EXPLORATION%2012.%20%EB%82%98%EB%9E%91%20%EB%8B%AE%EC%9D%80%20%EC%97%B0%EC%98%88%EC%9D%B8%EC%9D%80%20%EB%88%84%EA%B5%AC%3F.ipynb)
 - [E13. Face2Emoji 모바일 웹앱 만들기](https://github.com/JaeHeee/AIFFEL_Project/blob/master/EXPLORATION/EXPLORATION%2013.%20Face2Emoji%20%EB%AA%A8%EB%B0%94%EC%9D%BC%20%EC%9B%B9%EC%95%B1%20%EB%A7%8C%EB%93%A4%EA%B8%B0.ipynb)
+- [E14. 인물사진을 만들어 보자](https://github.com/JaeHeee/AIFFEL_Project/blob/master/EXPLORATION/EXPLORATION%2014.%20%EC%9D%B8%EB%AC%BC%EC%82%AC%EC%A7%84%EC%9D%84%20%EB%A7%8C%EB%93%A4%EC%96%B4%20%EB%B3%B4%EC%9E%90.ipynb)
