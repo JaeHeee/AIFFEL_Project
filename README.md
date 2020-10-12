@@ -30,6 +30,8 @@
 | 15 | EXPLORATION 15. 번역기를 만들어보자 | [code](https://github.com/JaeHeee/AIFFEL_Project/blob/master/EXPLORATION/EXPLORATION%2015.%20%EB%B2%88%EC%97%AD%EA%B8%B0%EB%A5%BC%20%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EC%9E%90.ipynb)|
 | 16 | EXPLORATION 16. 인공지능으로 세상에 없던 새로운 패션 만들기 | [code](https://github.com/JaeHeee/AIFFEL_Project/blob/master/EXPLORATION/EXPLORATION%2016.%20%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EC%9C%BC%EB%A1%9C%20%EC%84%B8%EC%83%81%EC%97%90%20%EC%97%86%EB%8D%98%20%EC%83%88%EB%A1%9C%EC%9A%B4%20%ED%8C%A8%EC%85%98%20%EB%A7%8C%EB%93%A4%EA%B8%B0.ipynb)|
 | 17 | EXPLORATION 17. 문자를 읽을 수 있는 딥러닝 | [code](https://github.com/JaeHeee/AIFFEL_Project/blob/master/EXPLORATION/EXPLORATION%2017.%20%EB%AC%B8%EC%9E%90%EB%A5%BC%20%EC%9D%BD%EC%9D%84%20%EC%88%98%20%EC%9E%88%EB%8A%94%20%EB%94%A5%EB%9F%AC%EB%8B%9D.ipynb)|
+| 18 | EXPLORATION 18. 뉴스 요약봇 만들기 | [code](https://github.com/JaeHeee/AIFFEL_Project/blob/master/EXPLORATION/EXPLORATION%2018.%20%EB%89%B4%EC%8A%A4%20%EC%9A%94%EC%95%BD%EB%B4%87%20%EB%A7%8C%EB%93%A4%EA%B8%B0.ipynb)|
+
 
 
 <br>
