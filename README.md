@@ -43,6 +43,7 @@
 | Num.|Name|Description|Code|
 |:---:|---|:---:|:---:|
 | 1 | ResNet Ablation Study | ResNet |[code](https://github.com/JaeHeee/AIFFEL_Project/blob/master/Going_Deeper/ResNet.ipynb)|
+| 2 | CutMix and MixUp | Data Augmentation |[code](https://github.com/JaeHeee/AIFFEL_Project/blob/master/Going_Deeper/CutMix%20and%20MixUp.ipynb)|
 
 
 
