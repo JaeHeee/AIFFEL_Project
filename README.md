@@ -33,6 +33,7 @@
 | 18 | EXPLORATION 18. 뉴스 요약봇 만들기 | [code](https://github.com/JaeHeee/AIFFEL_Project/blob/master/EXPLORATION/EXPLORATION%2018.%20%EB%89%B4%EC%8A%A4%20%EC%9A%94%EC%95%BD%EB%B4%87%20%EB%A7%8C%EB%93%A4%EA%B8%B0.ipynb)|
 | 19 | EXPLORATION 19. 흐린 사진을 선명하게 | [code](https://github.com/JaeHeee/AIFFEL_Project/blob/master/EXPLORATION/EXPLORATION%2019.%20%ED%9D%90%EB%A6%B0%20%EC%82%AC%EC%A7%84%EC%9D%84%20%EC%84%A0%EB%AA%85%ED%95%98%EA%B2%8C.ipynb)|
 | 20 | EXPLORATION 20. 어라, 이 시계열 데이터 이상한데? - Anomaly Detection | [code](https://github.com/JaeHeee/AIFFEL_Project/blob/master/EXPLORATION/EXPLORATION%2020.%20%EC%96%B4%EB%9D%BC%2C%20%EC%9D%B4%20%EC%8B%9C%EA%B3%84%EC%97%B4%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%9D%B4%EC%83%81%ED%95%9C%EB%8D%B0%3F%20-%20Anomaly%20Detection.ipynb)|
+| 21 | EXPLORATION 21. 트랜스포머로 만드는 대화형 챗봇 | [code](https://github.com/JaeHeee/AIFFEL_Project/blob/master/EXPLORATION/EXPLORATION%2021.%20%ED%8A%B8%EB%9E%9C%EC%8A%A4%ED%8F%AC%EB%A8%B8%EB%A1%9C%20%EB%A7%8C%EB%93%9C%EB%8A%94%20%EB%8C%80%ED%99%94%ED%98%95%20%EC%B1%97%EB%B4%87.ipynb)|
 
 
 <br>
