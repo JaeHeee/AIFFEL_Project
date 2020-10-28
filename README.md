@@ -48,7 +48,7 @@
 | 1 | ResNet Ablation Study | ResNet |[code](https://github.com/JaeHeee/AIFFEL_Project/blob/master/Going_Deeper/ResNet.ipynb)|
 | 2 | CutMix and MixUp | Data Augmentation |[code](https://github.com/JaeHeee/AIFFEL_Project/blob/master/Going_Deeper/CutMix%20and%20MixUp.ipynb)|
 | 3 | Go/Stop Object Detection | Object Detection, RetinaNet |[code](https://github.com/JaeHeee/AIFFEL_Project/blob/master/Going_Deeper/Object%20Detection.ipynb)|
-
+| 3 | Segmentaion | Segmentaion, U-Net, U-Net++ |[code](https://github.com/JaeHeee/AIFFEL_Project/blob/master/Going_Deeper/Segmentation.ipynb)|
 
 
 
